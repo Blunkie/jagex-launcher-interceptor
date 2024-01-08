@@ -6,6 +6,8 @@ Jagex/RuneLite Launcher Interceptor
 ##
 this program will intercept the runelite launcher and run devious launcher instead
 
+![Screenshot](screenshot.png)
+
 ### HOW-TO
 ```
 1. Run this program
